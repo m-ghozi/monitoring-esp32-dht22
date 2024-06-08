@@ -1,7 +1,6 @@
 #include <Arduino.h>
 #include <WiFi.h>
 #include <Firebase_ESP_Client.h>
-#include <Wire.h>
 #include <Adafruit_Sensor.h>
 #include <DHT.h>
 #include "time.h"
@@ -12,7 +11,7 @@
 #include "addons/RTDBHelper.h"
 
 // Insert your network credentials
-#define WIFI_SSID "Hotspot"
+#define WIFI_SSID "nayra"
 #define WIFI_PASSWORD "11233211"
 
 // Insert Firebase project API Key
