@@ -15,7 +15,7 @@
 #define WIFI_PASSWORD "11233211"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyCm1JSTstdX8Ne0LBS8efR9JrYY1OOGdZA"
+#define API_KEY "API KEY"
 
 // Insert Authorized Email and Corresponding Password
 #define USER_EMAIL "admin@iot.com"
